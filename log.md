@@ -1,24 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: October 1st, 2021 (Preparing for challenge)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Got Github environment and repository ready. Created base website project and hosted on Github pages. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** I didn't know the existence of github pages but by following tutorials to host project on it was not difficult. 
 
 
+### Day 1: October 4th, 2021
+
+**Today's Progress**: Started on first project (Tribute Page) from FreeCodeCamp. 
+
+**Thoughts**: While building the website wasn't difficult, I struggled a bit with css styling especially around building responsive layouts. It's been a while since I last did css stylesheets so had to refer back to resources when I felt stuck. I did lose track of time though, so not complaining :)
+
+**Link(s) to work**: [Tribute Page](https://shomal.github.io/tribute-page/)
+
+<!---
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -28,3 +25,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+--->
