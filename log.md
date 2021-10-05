@@ -13,16 +13,19 @@
 
 **Thoughts**: While building the website wasn't difficult, I struggled a bit with css styling especially around building responsive layouts. It's been a while since I last did css stylesheets so had to refer back to resources when I felt stuck. I did lose track of time though, so not complaining :)
 
-**Link(s) to work**: [Tribute Page](https://shomal.github.io/tribute-page/)
+**Link to work**: [Tribute Page](https://shomal.github.io/tribute-page/)
+
+
+### Day 2: October 5th, 2021
+
+**Today's Progress**: Completed First project - Tribute Page
+
+**Thoughts** Spent some time working out making the image responsive and used a Bootstrap template for timeline to modify it to my own liking. Happy to submit through the first project.
+
+**Link to work**: [Tribute Page](https://shomal.github.io/tribute-page/)
 
 <!---
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
---->
+-->
