@@ -13,8 +13,6 @@
 
 **Thoughts**: While building the website wasn't difficult, I struggled a bit with css styling especially around building responsive layouts. It's been a while since I last did css stylesheets so had to refer back to resources when I felt stuck. I did lose track of time though, so not complaining :)
 
-**Link to work**: [Tribute Page](https://shomal.github.io/tribute-page/)
-
 
 ### Day 2: October 5th, 2021
 
@@ -23,6 +21,20 @@
 **Thoughts** Spent some time working out making the image responsive and used a Bootstrap template for timeline to modify it to my own liking. Happy to submit through the first project.
 
 **Link to work**: [Tribute Page](https://shomal.github.io/tribute-page/)
+
+
+### Day 3: October 7th, 2021
+
+**Today's Progress**: Started on next project - Survey Form
+
+**Thoughts** Since I did the web design principles course just over a week ago, I went back to re-do them to refresh memory on form elements and validation. Spent some time with W3School and Google articles on best practices for html form validation. Created a base html file with some skeleton code.
+
+### Day 4: October 8th, 2021
+
+**Today's Progress**: Continued on with Survey Form project
+
+**Thoughts** Continued adding the various form elements. Looked up on W3School on other types of form elements available. Felt a bit stuck on getting the multi-text area working today. 
+
 
 <!---
 **Link(s) to work**
