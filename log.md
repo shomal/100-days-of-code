@@ -35,6 +35,12 @@
 
 **Thoughts** Continued adding the various form elements. Looked up on W3School on other types of form elements available. Felt a bit stuck on getting the multi-text area working today. 
 
+### Day 5: October 9th, 2021
+
+**Today's Progress**: Continued on with Survey Form project with adding responsiveness to the layout
+
+**Thoughts** Today was all about getting a responsive layout and making it work for smaller devices. CSS Flexbox properties and use of media queries is amazing. It took me a while and several tutorials later to understand the basics of getting flex work. 
+
 
 <!---
 **Link(s) to work**
