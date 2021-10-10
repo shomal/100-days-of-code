@@ -41,6 +41,11 @@
 
 **Thoughts** Today was all about getting a responsive layout and making it work for smaller devices. CSS Flexbox properties and use of media queries is amazing. It took me a while and several tutorials later to understand the basics of getting flex work. 
 
+### Day 6: October 10th, 2021
+
+**Today's Progress**: Added visual design to Survey Form project and fixed issue with multi-text area and labels for inputs.
+
+**Thoughts** Alot of my time was spent on testing and debugging why certain labels and inputs weren't showing correctly (due to mis-aligned tags). The rest of the time was spent working on getting the right color balance for how I'd like the page to look like. I admit though that I spent more time than I intended on getting the background image.
 
 <!---
 **Link(s) to work**
