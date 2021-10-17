@@ -56,6 +56,12 @@
 
 **Link to work**: [Survey Form](https://shomal.github.io/survey-form/)
 
+
+### Day 9: October 18th, 2021
+
+**Today's Progress**: Started on Product landing page project
+
+
 <!---
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
