@@ -47,6 +47,15 @@
 
 **Thoughts** Alot of my time was spent on testing and debugging why certain labels and inputs weren't showing correctly (due to mis-aligned tags). The rest of the time was spent working on getting the right color balance for how I'd like the page to look like. I admit though that I spent more time than I intended on getting the background image.
 
+
+### Day 7 and 8: October 11th and 12th, 2021
+
+**Today's Progress**: Finished the Survey Form project and added media query for smaller device.
+
+**Thoughts** Most of my time was spent debugging on why the form wasn't resizing on a smartphone. 
+
+**Link to work**: [Survey Form](https://shomal.github.io/survey-form/)
+
 <!---
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
